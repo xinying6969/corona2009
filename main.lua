@@ -14,3 +14,5 @@ world2.y = display.contentCenterY - 150
 
 local msgText = display.newText( "D1044172058", world1.x, world1.y-150, native.systemFont, 32 )
 msgText:setFillColor( 1, 1, 1 )
+
+print ("hello world")

@@ -12,7 +12,7 @@ local world2 = display.newImageRect( "world.png", 150, 150 )
 world2.x = display.contentCenterX
 world2.y = display.contentCenterY - 150
 
-local msgText = display.newText( "D1044172058", world1.x, world1.y-150, native.systemFont, 32 )
+local msgText = display.newText( "D1064423059", world1.x, world1.y-150, native.systemFont, 32 )
 msgText:setFillColor( 1, 1, 1 )
 
 print ("hello world")
